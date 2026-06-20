@@ -1,0 +1,61 @@
+{
+  "navbar": {
+    "QUI-SOMME-NOUS ?": "Who are we?",
+    "NOTRE-DESTINATION": "Our destination",
+    "NOS-PRODUITS": "Our products",
+    "CONTACTS": "Contact us"
+  },
+  "hero": {
+    "title": "DAKHLA PREFA",
+    "description": "DAKHLA PREFA is a big  industrial company  in Dakhla city  that specialist in  the field of the production of construction materials,  recognized for its commitment towards  quality, durability and innovation.  Founded in 2020,  company has managed to  impose itself as a key  player in the  industry by supplying  products that  meet  the highest  requirements of construction professionals and  individuals.",
+    "title1": "specialist",
+    "description1": "Offers a wide range of materials ranging from  for example, cement, concrete, bricks, pavers, blocks and relies on state-of-the-art manufacturing processes and advanced technology to guarantee reliable and high-performance products.Their team of experts makes it a point of honor to understand the specific needs of their customers in order to provide them with good solutions ",
+    "title2": "QUALITY AND DURABILITY",
+    "description2": " Quality and durability have   importance in this field to know a stable and durable product companies take methods to develop their  product quality like machines when we see today the machines that decide the    improvement  of products to guarantee  performance and durability to excel by other  companies"
+  },
+  "about": {
+    "title": "about us !",
+    "description": "The construction materials production sector plays a major role in the development of infrastructure and buildings., ",
+    "cardstitle": "Production Process:",
+    "cardsdescription": "Extraction of minerals, sand, gravel, and other necessary resources. And Transformation of raw materials into finished products through various processes such as kneading, molding, drying, and cooking. Testing and verification of materials, after distribution of products to construction sites",
+    "cardstitle1": "Market and Demand:",
+    "cardsdescription1": "High demand for construction materials in housing projects. Infrastructure for Government Projects such as roads, bridges, and public buildings. Constant need for materials for industrial and commercial facilities. ",
+    "cardstitle2": "Quality and Durability:",
+    "cardsdescription2": "Quality and durability have importance in this field to know a stable and durable product companies take methods to develop their  product quality like machines when we see today the machines that decide the    improvement  of products to guarantee  performance and durability to excel by other  companies"
+  },
+  "service": {
+    "title": "service ",
+    "description": "Discover our dedicated services to support you in all your projects",
+    "description1": "Download our complete catalog and discover our entire range of precast concrete products for your development projects.",
+    "Subdescription1": "Download now",
+    "description2": "Discover a sample of our flagship achievements carried out across the Dakhla region. With numerous completed and ongoing projects, DAKHLA PREFA transforms your ideas into sustainable infrastructures adapted to local requirements.",
+    "Subdescription2": "Discover our projects",
+    "description3": "Our team is at your disposal to answer all your questions and support you in your projects.",
+    "Subdescription3": "Contact us"
+  },
+  "products": {
+    "agglotext": "Agglos (often called concrete blocks or concrete blocks) are hollow concrete building materials used extensively in construction across Dakhla. They offer an exceptional balance between durability, thermal mass and cost-effectiveness",
+    "hourdistext": "A floor slab is a layer of filling consisting of concrete poured in place forming the slab of a concrete floor. The floor rests on beams",
+    "poutrelletexte": "The beam is an essential structural element of beam and floor slab floors. Made of reinforced or prestressed concrete, it serves as the main support by resting on load-bearing walls or main beams",
+    "pavétxte": "Concrete pavers offer an aesthetic, durable and versatile solution for surface development",
+    "borduretext": "Concrete curbs are prefabricated elements used to delimit spaces, contain road materials and ensure a clean finish for outdoor developments."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "We are at your disposal to answer all your questions and support you in your projects.",
+    "description1": "Contact us",
+    "description2": "Request a quote",
+    "infotitle": "Our Contact Information",
+    "infosubtitle": "For more information, ",
+    "infosubdescription": "For more information or for any questions, contact us. We will answer you as soon as possible. "
+  },
+  "productrates": {
+    "title": "Strategic ",
+    "description": "The strategic work of the company DAKHLA PREFA is that it is an industrial company. They purchase raw materials including simple sand, crushed sand, cement, and gravel. Each material is placed in three sorting units: one for simple sand, one for gravel, and one for crushed sand. The cement is placed in two cells. All the materials then go to a machine called a mixer to blend them. This mixture then goes to a press machine which presses the materials into a mold, either for concrete blocks, beams, paving stones, curbs, or hollow core slabs, resulting in a finished product. This product is then placed on pallets which are distributed in an elevator that carries 13 pallets. Their movement is then programmed by a machine called a transfer system to move the products into kilns. The kiln preparation takes 48 hours. After preparation, the product is removed by a conveyor that places the pallets onto a conveyor belt to be delivered to Clark cranes for unloading. They take pallets to move within the warehouse or load them into transport for delivery. They offer a full range of building materials, with quality and durability that ensures customer satisfaction, including ",
+    "agglosrates": "This is a solid and resistant material. It resists earthquakes, bad weather, UV rays, and wear and tear. The company produces 5,000 units per day, and this product has different sizes: we have 10/16/20/25",
+    "hourdisrates": "Hollow core slabs: The hollow core slabs fit between the beams of the floor. The company produces 5,000 units per day. It has the following sizes: 12/16/20/25",
+    "poutrelletes": "Beams: For the iron in the beams, the company purchases the iron prepared at another company called DAKHLA FER and produces the rest, and it produces 300 meters per day ",
+    "pavetrates": "Paving stones: The concrete paving stone is for an outdoor floor. The company produces 1,500 m² per day of paving stones",
+    "bordurerates": "Road curbs: The curbs are used to reduce the accumulation of water on the road and the infiltration of water under the pavement. The company produces 1,000 units per day"
+  }
+}

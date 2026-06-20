@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root {
+  --font-family: "Orbitron", sans-serif;
+  --font-family-1: "Black Ops One", system-ui;
+  --font-family-2: "Merriweather", serif;
+}

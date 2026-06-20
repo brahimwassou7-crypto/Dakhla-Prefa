@@ -1,0 +1,33 @@
+{
+  "name": "dakhla-prefa",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@tailwindcss/vite": "^4.3.1",
+    "aos": "^2.3.4",
+    "bootstrap-icons": "^1.13.1",
+    "gsap": "^3.15.0",
+    "swiper": "^12.2.0",
+    "tailwindcss": "^4.3.1",
+    "vee-validate": "^4.15.1",
+    "vue": "^3.5.32",
+    "vue-i18n": "^11.4.5",
+    "vue-router": "^5.1.0",
+    "yup": "^1.7.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.6",
+    "vite": "^8.0.8",
+    "vite-plugin-vue-devtools": "^8.1.1"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  }
+}
