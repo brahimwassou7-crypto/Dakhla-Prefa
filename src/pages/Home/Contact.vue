@@ -83,15 +83,16 @@ const submitEmail = async () => {
             class="contact-title text-center flex flex-col bg-linear-to-r from-red-500 to-red-900 h-100 text-white items-center justify-center gap-10">
             <h1 style="font-family: var(--font-family);" class="text-4xl ">{{ $t('contact.title') }}</h1>
             <p style="font-family: var(--font-family-2);" class=" text-2xl max-w-4xl">{{ $t('contact.description')
-                }}<span class="underline">+212 6
+            }}<span class="underline">+212 6
                     26
                     38
                     38 15 / +212 6
                     61 53 57
                     45</span></p>
-            <div class="contact-btns flex gap-5 ">
-                <button class="bg-red-500 text-white px-7 py-4 cursor-pointer">{{ $t('contact.description1') }}</button>
-                <a class="bg-red-500 text-white px-7 py-4  w-1/2 text-xl text-center cursor-pointer "
+            <div class="contact-btns flex flex-col  gap-5 ">
+                <button class="bg-red-500 text-white px-10 py-2 cursor-pointer">{{ $t('contact.description1')
+                    }}</button>
+                <a class="bg-red-500 text-white px-10 py-2 text-xl text-center cursor-pointer "
                     href="/DAKHLA-PREFA-PDF.pdf" download>
                     <button class="cursor-pointer">Telecharger
                         notre catalogue</button>
@@ -153,14 +154,14 @@ const submitEmail = async () => {
                             class="w-full border-gray-200 border-2 h-50 bg-gray-100 outline-0" id="message"
                             v-model="form.message" name="message" placeholder="   Message"></textarea>
                     </div>
-                    <div class="contact-btns flex gap-5 w-full ">
-                        <a class="bg-red-500 text-white px-7 py-4  w-1/2 text-xl text-center cursor-pointer rounded-4xl"
+                    <div class="contact-btns flex flex-col gap-5 w-full ">
+                        <a class="bg-red-500 text-white px-7 py-4 text-xl text-center cursor-pointer rounded-4xl"
                             href="/DAKHLA-PREFA-PDF.pdf" download>
-                            <button class="cursor-pointer">Telecharger
+                            <button class="cursor-pointer text-xl">Telecharger
                                 notre catalogue</button>
                         </a>
                         <button @click="submitEmail()"
-                            class="bg-white text-red-700 px-7 py-4 cursor-pointer w-1/2 text-xl border-2 border-red-700 rounded-2xl "><i
+                            class="bg-white text-red-700 px-7 py-4 cursor-pointer  text-xl border-2 border-red-700 rounded-2xl "><i
                                 class="bi bi-send"></i> Envoyer</button>
                     </div>
                 </div>
@@ -169,7 +170,7 @@ const submitEmail = async () => {
             <!------------------------------------------>
         </div>
         <!----location----->
-        <section class="location flex flex-col w-1/2 p-7 gap-20 ">
+        <section class="location flex flex-col w-1/2 gap-20 ">
             <!------location-information-------------->
             <!-------------------->
             <div class="content flex flex-col gap-6 w-full">
@@ -256,7 +257,7 @@ const submitEmail = async () => {
 
     .contact-btns button {
         width: 100%;
-        font-size: x-small;
+        font-size: 1rem;
     }
 
 }
