@@ -46,7 +46,7 @@ onMounted(() => {
             <p style="font-family: var(--font-family-2);" class="w-1/2">{{ $t('productrates.description') }}</p>
         </div>
         <!-------product-rates--------------->
-        <section class="product-rates grid grid-cols-2  gap-10  mt-20 mb-20">
+        <section class="product-rates grid grid-cols-2  gap-10  mt-20 mb-20 lg:px-20">
             <div class="agglos-rates flex items-center  justify-center gap-20 ">
                 <span data-target="5000" class="rates flex  text-8xl font-bold text-red-700"
                     style="font-family: var(--font-family);">5000
